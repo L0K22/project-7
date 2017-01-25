@@ -1,4 +1,28 @@
-    #main-headline {
+   
+#main-headline 
+{
     color: blue;
     text-align: center;
-    }
+}
+
+
+
+h2
+{
+    text-align: center;
+}
+
+
+
+.place-description
+{
+    font-family: Veranda;
+    color: olive;
+}
+
+.person-description
+{
+    color: purple;
+}
+
+
